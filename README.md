@@ -113,6 +113,9 @@ The code includes error handling for:
 
 If you encounter persistent errors, try reducing the complexity of the genetic programming setup (smaller population, fewer generations, lower maximum tree depth).
 
+## Reporting
+Follow this link to view the reporting and conclusion of the current findings: https://www.overleaf.com/read/gxzcqpxjmsdx#f3fc0e
+
 ## Contact
 
 For questions or issues, please submit an issue on the project repository or contact letswalomosa@tuks.co.za.
