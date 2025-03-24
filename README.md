@@ -1,7 +1,7 @@
 # GP-For-Vineyard-Yield-Prediction
 COS 710 : Artificial Intelligence | Assignment 1 - Regression 
 
-M.T Letswalo 14168970
+M.T Letswalo 14****70
 # Vineyard Yield Prediction using Genetic Programming
 
 This project implements a genetic programming approach to predict vineyard yields for 1991 based on data from 1989 and 1990.
